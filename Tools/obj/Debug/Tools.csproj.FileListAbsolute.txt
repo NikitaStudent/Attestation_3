@@ -1,0 +1,12 @@
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\Tools\bin\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\Tools\bin\Debug\Tools.pdb
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\Tools\obj\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\Tools\obj\Debug\Tools.pdb
+K:\Attestation_3\Tools\bin\Debug\Tools.dll
+K:\Attestation_3\Tools\bin\Debug\Tools.pdb
+K:\Attestation_3\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+K:\Attestation_3\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+K:\Attestation_3\Tools\obj\Debug\Tools.dll
+K:\Attestation_3\Tools\obj\Debug\Tools.pdb

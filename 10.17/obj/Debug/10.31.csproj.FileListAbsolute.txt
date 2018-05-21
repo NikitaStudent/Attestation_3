@@ -1,0 +1,14 @@
+C:\Users\Andre\source\repos\people\ialaevE\attest 3\10.31\bin\Debug\10.31.exe.config
+C:\Users\Andre\source\repos\people\ialaevE\attest 3\10.31\bin\Debug\10.31.exe
+C:\Users\Andre\source\repos\people\ialaevE\attest 3\10.31\bin\Debug\10.31.pdb
+C:\Users\Andre\source\repos\people\ialaevE\attest 3\10.31\bin\Debug\tools.dll
+C:\Users\Andre\source\repos\people\ialaevE\attest 3\10.31\bin\Debug\tools.pdb
+C:\Users\Andre\source\repos\people\ialaevE\attest 3\10.31\obj\Debug\10.31.csprojResolveAssemblyReference.cache
+C:\Users\Andre\source\repos\people\ialaevE\attest 3\10.31\obj\Debug\_10._31.Form1.resources
+C:\Users\Andre\source\repos\people\ialaevE\attest 3\10.31\obj\Debug\_10._31.Properties.Resources.resources
+C:\Users\Andre\source\repos\people\ialaevE\attest 3\10.31\obj\Debug\10.31.csproj.GenerateResource.Cache
+C:\Users\Andre\source\repos\people\ialaevE\attest 3\10.31\obj\Debug\10.31.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\people\ialaevE\attest 3\10.31\obj\Debug\10.31.exe
+C:\Users\Andre\source\repos\people\ialaevE\attest 3\10.31\obj\Debug\10.31.pdb
+C:\Users\Andre\source\repos\people\ialaevE\attest 3\10.31\bin\Debug\ToolsGrid.dll
+C:\Users\Andre\source\repos\people\ialaevE\attest 3\10.31\bin\Debug\ToolsGrid.pdb

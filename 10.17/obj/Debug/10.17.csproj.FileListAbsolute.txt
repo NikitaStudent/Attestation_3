@@ -1,0 +1,14 @@
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\10.17\bin\Debug\10.31.exe.config
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\10.17\bin\Debug\10.31.exe
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\10.17\bin\Debug\10.31.pdb
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\10.17\bin\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\10.17\bin\Debug\ToolsGrid.dll
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\10.17\bin\Debug\ToolsGrid.pdb
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\10.17\bin\Debug\Tools.pdb
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\10.17\obj\Debug\10.17.csprojResolveAssemblyReference.cache
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\10.17\obj\Debug\_10._31.Form1.resources
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\10.17\obj\Debug\_10._31.Properties.Resources.resources
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\10.17\obj\Debug\10.17.csproj.GenerateResource.Cache
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\10.17\obj\Debug\10.17.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\10.17\obj\Debug\10.31.exe
+C:\Users\sidad\Desktop\people\KojevnikovN\att3\10.17\obj\Debug\10.31.pdb
